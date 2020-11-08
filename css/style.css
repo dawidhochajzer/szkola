@@ -1,0 +1,117 @@
+body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+   color: #40514E;
+   font-size: 100%;
+}
+h1 {
+   font-size: 5.625rem;
+   font-family: 'Sacramento', cursive;
+   margin: 50px auto 0 auto;
+   color: #66BFBF;
+   line-height: 2;
+}
+h2 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: 400;
+   padding-bottom: 10px;
+}
+h3 {
+   color: #11999e;
+   font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+   background-color: #EAF6F6;
+   padding-top: 100px;
+   position: relative;
+}
+.middle-container {
+   margin: 100px 0 100px 0;
+}
+.bottom-container {
+   background-color: #66BFBF;
+   padding: 50px 0 20px;
+}
+span {
+   text-decoration: underline;
+}
+.top-cloud {
+   position: absolute;
+   top: 50px;
+   right: 600px;
+}
+.bottom-cloud {
+   position: absolute;
+   bottom: 300px;
+   left: 600px;
+}
+hr {
+   border-style: dotted none none;
+   border-width: 10px;
+   border-color: #EAF6F6;
+   width: 10%;
+   margin: 100px auto 100px auto;
+}
+.bottom-container >  p {
+   margin-bottom: 0;
+   color: #EAF6F6;
+   padding: 20px 0;
+}
+.mySkills {
+   padding: 20px;
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+.skill-row {
+   width: 50%;
+   margin: 100px auto 150px auto;
+   text-align: left;
+}
+p {
+   line-height: 2;
+}
+.mySkillsRight {
+   padding: 40px;
+   float: right;
+   width: 25%;
+   margin-left: 30px;
+}
+a {
+   color: #11999e;
+   text-decoration: none;
+   font-family: 'Montserrat', sans-serif;
+   margin: 20px 30px;
+   font-weight: 700;
+   font-size: 1.25rem;
+}
+a:hover {
+   color: #00888d;
+}
+.contact-me p {
+   margin-bottom: 100px;
+}
+.contact-me {
+   width: 40%;
+   margin: 40px auto;
+}
+.btn {
+   color: #EAF6F6;
+   background-color: #11999e;
+   border-radius: 10px;
+   font-family: 'Montserrat', sans-serif;
+   padding: 15px;
+   margin: auto;
+   font-size: 0.875rem;
+}
+.btn:hover {
+   background-color: #00888d;
+   color: #EAF6F6;
+}
+.intro {
+   width: 30%;
+   margin: auto;
+}
